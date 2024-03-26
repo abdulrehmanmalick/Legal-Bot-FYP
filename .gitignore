@@ -40,7 +40,7 @@ API/app/storage/
 
 .env
 API/.venv
-db.py
+# db.py
 
 api/.venv
 API/app/storage
